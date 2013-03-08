@@ -10,8 +10,14 @@ This algorithm recognizes elementary geometric shapes, such as Triangles, Rectan
 
 The recognizer has a **recognition rate of 97%** and a fast response characteristic making it very usable in interactive applications.
 
-The library is written in standard C++.
-Currently it compiles under GNU g++ (Linux) and Visual C++ (Windows).
+###Shapes
+The figure below shows the different shapes and gestures identified by the recognizer.  
+Besides the ones enumerated in the figure, it also recognizes the Tap gesture.
+
+###Authors
+
+* [Manuel J. Fonseca](http://web.ist.utl.pt/mjf/)
+* [Joaquim A. Jorge](http://web.ist.utl.pt/jorgej/)
 
 The source code and documentation is released under the terms of the GNU General Public License.
 
