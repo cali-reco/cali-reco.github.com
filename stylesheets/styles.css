@@ -109,6 +109,11 @@ header li {
   height:30px;
 }
 
+header ul a.current {
+  color:#333;
+  font-weight:700;
+}
+
 header ul a {
   color:#999; 
   text-align:center;
